@@ -86,7 +86,8 @@ Fungsi Kode ASCII:
 - Hasil XOR dikonversi ke dalam karakter ASCII.
 - Hasil dekripsi ditampilkan.
 
->Hasil enkripsi ditampilkan dalam format tertentu, termasuk karakter kontrol untuk nilai ASCII di bawah 32.
+> [!NOTE]
+> Hasil enkripsi ditampilkan dalam format tertentu, termasuk karakter kontrol untuk nilai ASCII di bawah 32.
 
 ## Done
 
